@@ -1,6 +1,6 @@
 # Simple Interest Calculator Project
 
-A repository created as part of the IBM Data Science / Software Engineering Hands-on Lab on Git and GitHub. This project provides a simple Bash script to calculate simple interest based on user inputs for principal amount, annual rate of interest, and time period in years.
+A repository created as part of the IBM Data Science / Software Engineering Hands-on Lab on Git and GitHub. This project provides a simple Bash script to calculate simple interest based on user inputs and parameters for principal amount, annual rate of interest, and time period in years.
 
 ## Overview
 
