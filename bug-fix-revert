@@ -1,0 +1,48 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?head=ren-02:bug-fix-revert
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1042",
+    "id": 164829384,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1042",
+    "state": "open",
+    "title": "Revert bug fix typo in README.md",
+    "user": {
+      "login": "ren-02",
+      "id": 84920192,
+      "type": "User"
+    },
+    "head": {
+      "label": "ren-02:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "sha": "4971619748bb2ee0fc456b368300c66a1afc4f62",
+      "user": {
+        "login": "ren-02"
+      },
+      "repo": {
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ren-02/mcino-Introduction-to-Git-and-GitHub",
+        "private": false,
+        "owner": {
+          "login": "ren-02"
+        },
+        "html_url": "https://github.com/ren-02/mcino-Introduction-to-Git-and-GitHub",
+        "description": "Forked project for IBM Git/GitHub lab",
+        "fork": true,
+        "url": "https://api.github.com/repos/ren-02/mcino-Introduction-to-Git-and-GitHub"
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main",
+      "sha": "6925a12d58e03d43b6d5a08b5d7373816471af1d",
+      "user": {
+        "login": "ibm-developer-skills-network"
+      },
+      "repo": {
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]

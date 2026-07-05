@@ -1,0 +1,33 @@
+$ git branch -a -vv
+* main                    4971619 [origin/main] Fix typo in README.md
+  bug-fix-revert          4971619 Fix typo in README.md
+  bug-fix-typo            4971619 Fix typo in README.md
+  remotes/origin/main     4971619 Fix typo in README.md
+
+$ curl -s https://api.github.com/repos/ren-02/githubProject/branches
+[
+  {
+    "name": "main",
+    "commit": {
+      "sha": "4971619748bb2ee0fc456b368300c66a1afc4f62",
+      "url": "https://api.github.com/repos/ren-02/githubProject/commits/4971619748bb2ee0fc456b368300c66a1afc4f62"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "4971619748bb2ee0fc456b368300c66a1afc4f62",
+      "url": "https://api.github.com/repos/ren-02/githubProject/commits/4971619748bb2ee0fc456b368300c66a1afc4f62"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "4971619748bb2ee0fc456b368300c66a1afc4f62",
+      "url": "https://api.github.com/repos/ren-02/githubProject/commits/4971619748bb2ee0fc456b368300c66a1afc4f62"
+    },
+    "protected": false
+  }
+]
