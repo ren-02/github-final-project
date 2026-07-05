@@ -1,6 +1,9 @@
 # Contributing to Simple Interest Calculator
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Thank you for considering contributing to the Simple Interest Calculator project! We welcome contributions from developers of all skill levels. By participating in this project, you agree to abide by our [Code of Conduct](file:///c:/Users/vince/OneDrive/Documents/githubProject/CODE_OF_CONDUCT.md).
+
 
 ## How to Contribute
 
